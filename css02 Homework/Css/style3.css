@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@300&family=Roboto+Slab:wght@300;400;500&display=swap');
+
+body{
+    background-color: #3FB8D2;
+}
+
+.h1{
+    font-family: 'Inter', sans-serif;
+     color: #ffff;
+     text-align: center;
+     font-size: 35px;
+}
+
+.border{
+    background-color:#fff ;
+    width: 240px;
+    height: 160px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 30px;
+    margin-top: 50px;
+    padding: 10px;
+    line-height: 0.2;
+    
+    
+
+}
+
+img{
+    width: 230px;
+    height: 95px;
+    border-radius: 12px;
+    
+}
+
+p{
+    font-size: 25px;
+    color: #111010;
+    text-align: left;
+    padding: 2px;
+    font-family: "Inter";
+    font-style:normal;
+    font-weight: 900;
+    
+
+}
+
+h2{
+    color: #971515;
+    text-align: left;
+    font-size: 27px;
+}
+
+.cadre{
+    display: flex;
+    
+}
